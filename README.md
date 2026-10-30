@@ -253,16 +253,16 @@ Java application focused on tracking digital habits and encouraging mindful tech
 
 <!-- STATS AND LANGUAGES -->
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/sakshiarora03">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshiarora03&theme=github_dark" width="100%" alt="GitHub statistics"/>
 </a>
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/sakshiarora03">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshiarora03&theme=github_dark" width="100%" alt="Repository language statistics"/>
 </a>
